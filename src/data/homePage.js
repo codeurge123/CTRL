@@ -2,7 +2,7 @@ export const brandName = 'CTRL'
 
 export const tagline = ['Tell your computer.', `Let ${brandName} handle the rest.`]
 
-export const githubUrl = 'https://github.com/codeurge123/Orbit'
+export const githubUrl = 'https://github.com/codeurge123/CTRL'
 
 export const phaseOrder = ['cli', 'desktop']
 
